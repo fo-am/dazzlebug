@@ -10,6 +10,4 @@ The game uses an advanced development of the genetic pattern evolution system us
 Read more in Laura's article on Dazzlebug in [The Conversation](https://theconversation.com/motion-dazzle-spotting-the-patterns-that-help-animals-outsmart-predators-on-the-run-47219)
 
 Dazzlebug has since been used for teaching by the University of Glasgow in a laboratory practical session, and a special 
-version has been exhibited at the [Eden Project Invisible Worlds exhibition](https://www.edenproject.com/visit/whats-here/invisible-worlds-exhibition) 
-and at the [Anchorage Museum](https://www.anchoragemuseum.org/) in Alaska as part of their 
-[Camouflage: In Plain Sight Exhibition](https://www.anchoragemuseum.org/exhibits/camouflage-in-plain-sight) in 2017.
+version has been exhibited at the [Eden Project Invisible Worlds exhibition](https://www.edenproject.com/visit/whats-here/invisible-worlds-exhibition) during 2018 and 2019 and at the [Anchorage Museum](https://www.anchoragemuseum.org/) in Alaska as part of their [Camouflage: In Plain Sight Exhibition](https://www.anchoragemuseum.org/exhibits/camouflage-in-plain-sight) in 2017.
