@@ -5,12 +5,7 @@ and [Anna Hughes](https://scienceanna.wordpress.com/) at Cambridge University to
 patterns are most effective at evading capture from predators. We can then use these results to look at what visual effects 
 these patterns have, and to see whether these patterns match up with those found on real animals in the wild.
 
-The game uses an advanced development of the genetic pattern evolution system used for the egglab game, with more geometric 
-patterns added to the mix. The findings will offer insight into the role of stripes, which are common in many species. While 
-these patterns may have evolved to confuse the visual perception of a predator, they may also be a result of other selection 
-pressures, such as attracting a mate or regulating body temperature. If striped patterns survive and evolve in the game, this 
-would provide strong evidence that these patterns do act to confuse human predators and therefore likely to do the same for 
-other creatures.
+The game uses an advanced development of the genetic pattern evolution system used for the [egglab game](https://fo.am/activities/egglab/), with more geometric patterns added to the mix. The findings will offer insight into the role of stripes, which are common in many species. While these patterns may have evolved to confuse the visual perception of a predator, they may also be a result of other selection pressures, such as attracting a mate or regulating body temperature. If striped patterns survive and evolve in the game, this would provide strong evidence that these patterns do act to confuse human predators and therefore likely to do the same for other creatures.
 
 Read more in Laura's article on Dazzlebug in [The Conversation](https://theconversation.com/motion-dazzle-spotting-the-patterns-that-help-animals-outsmart-predators-on-the-run-47219)
 
