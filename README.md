@@ -11,3 +11,14 @@ Read more in Laura's article on Dazzlebug in [The Conversation](https://theconve
 
 Dazzlebug has since been used for teaching by the University of Glasgow in a laboratory practical session, and a special 
 version has been exhibited at the [Eden Project Invisible Worlds exhibition](https://www.edenproject.com/visit/whats-here/invisible-worlds-exhibition) during 2018 and 2019 and at the [Anchorage Museum](https://www.anchoragemuseum.org/) in Alaska as part of their [Camouflage: In Plain Sight Exhibition](https://www.anchoragemuseum.org/exhibits/camouflage-in-plain-sight) in 2017.
+
+## Setup and installing
+
+Requires [RacketLang](https://racket-lang.org/).
+
+To run:
+
+    racket dazzle-server.scm 8000
+
+There 8000 is the port name, the IP address can be configured in the dazzle-server script.
+
