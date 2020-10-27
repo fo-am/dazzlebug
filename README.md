@@ -18,7 +18,7 @@ Requires [RacketLang](https://racket-lang.org/).
 
 To run:
 
-    racket dazzle-server.scm 8000
+    racket server.scm 8000
 
 There 8000 is the port name, the IP address can be configured in the dazzle-server script.
 
